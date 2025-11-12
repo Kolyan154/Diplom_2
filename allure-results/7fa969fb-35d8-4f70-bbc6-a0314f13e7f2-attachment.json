@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "user": {
+    "email": "wrong_password_test_638572@example.com",
+    "name": "Wrong Password Test User"
+  },
+  "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MTFmOGRmOTg0MjcwMDAxYmRmYjY3MCIsImlhdCI6MTc2Mjc4NTUwMywiZXhwIjoxNzYyNzg2NzAzfQ.gZn8tPMI-9KdjaVDUf52WA9CJK-6H8n8Iybv_0zKi_w",
+  "refreshToken": "30755c1661cce78f0d6598351c55750f39078d7c0e3878b8dab7b7b1314f4fd7d8d06762e20dfdc3"
+}

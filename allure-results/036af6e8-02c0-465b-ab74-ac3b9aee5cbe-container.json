@@ -1,0 +1,1 @@
+{"uuid": "537277dc-e627-4fc8-9f86-8a3b43d18218", "children": ["095b8794-8487-4742-b102-facbb3017c07"], "befores": [{"name": "test_user_data", "status": "passed", "steps": [{"name": "Создание тестового пользователя", "status": "passed", "start": 1762785492548, "stop": 1762785492548}], "start": 1762785492548, "stop": 1762785492548}], "start": 1762785492548, "stop": 1762785494643}

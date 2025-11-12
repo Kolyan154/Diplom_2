@@ -1,0 +1,3 @@
+Method: DELETE
+URL: https://stellarburgers.education-services.ru/api/auth/user
+Headers: {'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MTFmOGJlOTg0MjcwMDAxYmRmYjY0ZCIsImlhdCI6MTc2Mjc4NTQ3MCwiZXhwIjoxNzYyNzg2NjcwfQ.UctAfFZK5sRznMQ8PU6g6LN6zZ9_AhjtKSCGZRgpWCg'}
