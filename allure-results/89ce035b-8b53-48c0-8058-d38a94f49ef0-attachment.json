@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "user": {
+    "email": "wrong_both_test_609874@example.com",
+    "name": "Wrong Both Test User"
+  },
+  "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MTFmOGUyOTg0MjcwMDAxYmRmYjY3NCIsImlhdCI6MTc2Mjc4NTUwNiwiZXhwIjoxNzYyNzg2NzA2fQ.kaAqcPVb7LjiSDsh6k9j5pKQNa31wek556vdnSopV8k",
+  "refreshToken": "0c0fa1572d51c29e7e82a0fa066df3a53e0502c9772e48e34e84345b451e7ffe66c95112b51a4446"
+}

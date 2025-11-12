@@ -1,0 +1,3 @@
+Method: GET
+URL: https://stellarburgers.education-services.ru/api/ingredients
+Headers: None

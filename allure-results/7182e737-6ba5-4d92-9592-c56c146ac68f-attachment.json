@@ -1,0 +1,9 @@
+{
+  "success": true,
+  "user": {
+    "email": "wjtsouue@jwzkxi.com",
+    "name": "AzDnzPTqwn"
+  },
+  "accessToken": "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjY5MTFmOGNlOTg0MjcwMDAxYmRmYjY1OSIsImlhdCI6MTc2Mjc4NTQ4NiwiZXhwIjoxNzYyNzg2Njg2fQ.AauLJEqL_J6SQlUE6DyDPwyxE518qN6XrS9HF_ybxbQ",
+  "refreshToken": "fcdb37ec6e7b67ec33f1e2879d24006028883b91f01ee908fe01192ec710f52b9f218519ead28082"
+}
